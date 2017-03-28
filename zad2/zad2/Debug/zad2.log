@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  zad2.cpp
+e:\zzz\nowy folder (2)\lab3\zad2\zad2\zad2.cpp(465): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+e:\zzz\nowy folder (2)\lab3\zad2\zad2\zad2.cpp(470): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+e:\zzz\nowy folder (2)\lab3\zad2\zad2\zad2.cpp(522): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+e:\zzz\nowy folder (2)\lab3\zad2\zad2\zad2.cpp(524): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+e:\zzz\nowy folder (2)\lab3\zad2\zad2\zad2.cpp(526): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+e:\zzz\nowy folder (2)\lab3\zad2\zad2\zad2.cpp(528): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+e:\zzz\nowy folder (2)\lab3\zad2\zad2\zad2.cpp(630): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: zobacz deklarację „sscanf”
+  zad2.vcxproj -> E:\zzz\Nowy folder (2)\lab3\zad2\Debug\zad2.exe
+  zad2.vcxproj -> E:\zzz\Nowy folder (2)\lab3\zad2\Debug\zad2.pdb (Partial PDB)
